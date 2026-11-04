@@ -16,8 +16,6 @@ HTML5
 
 CSS3 (Flexbox & Grid)
 
-JavaScript (for interactivity and animations)
-
 🌍 Purpose
 To provide an engaging online presence for Edjeba Estate School, celebrating learning, culture, and community
 Link To Website https://zinogabriel.github.io/EES-School-Website/
